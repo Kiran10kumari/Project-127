@@ -1,0 +1,37 @@
+body
+{
+    background-color: rgb(149, 246, 93);
+}
+
+h1
+{
+    color:rgb(38, 0, 255);
+    background-color: cornsilk;
+}
+
+#confidence{
+    font-size: 20px;
+    color: rgb(255, 77, 190);
+}
+
+#label{
+    font-size: 20px;
+    color: rgb(255, 77, 190);
+}
+
+#score
+{
+    font-size: 40px;
+    margin-left: auto;
+}
+#timer
+{
+    font-size: 40px;
+    float: right;
+    margin-right: auto;
+}
+
+#sketch_to_be_drawn {
+    color: red;
+    font-size: 30px;
+}
